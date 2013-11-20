@@ -13,8 +13,8 @@ Guide List
     - [css:background-size & padding 的运用](https://github.com/hongru/Move-To-Mobile-Web/wiki/css:background-size-&-padding-%E7%9A%84%E4%BD%BF%E7%94%A8)
     - [css:@media queries](https://github.com/hongru/Move-To-Mobile-Web/wiki/Media-Queries)
     - [css: transition|animation|touch scrolling](https://github.com/hongru/Move-To-Mobile-Web/wiki/css:transition%7Canimation%7Coverflow-scrolling)
-    - css: ratina 适配
-    - js:mobile features [touch events, history, deviceRatio, deviceoritation, localstorage, devicemotion, standalone]
+    - [css: ratina 适配](https://github.com/hongru/Move-To-Mobile-Web/wiki/Retina%E7%9A%84%E9%80%82%E9%85%8D)
+    - [js:mobile features [touch events, history, deviceRatio, deviceoritation, localstorage, devicemotion, standalone]](https://github.com/hongru/Move-To-Mobile-Web/wiki/%E3%80%90mobile-web%E3%80%91js-features)
   - 底层基础
     - webapp:OPOA的架构和思路[backbone, kissy-mobile]
     - webapp:模版前端化
